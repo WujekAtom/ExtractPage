@@ -1,12 +1,9 @@
 from bs4 import BeautifulSoup as BS
 from urllib.request import urlopen
-html = urlopen("https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=5254")
-#page = BS(html, 'html.parser')
-page = BS(html.read(), 'html.parser')
-#print(page)
-# page.prettify() # Just to format/justify the html
-#titles = page.findAll('ul', {'class': 'jp'})
-#titles = page.findAll('div', {'id': 'result_jp'})
+name = input("Please provide URL: ")
+# html = urlopen("https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=5254")
+html = urlopen(name)
+page = BS(html, 'html.parser')
 titles = page.find('div', {'id': 'events-info-results'}).find('div', {'class': 'g-row'})
 # print(titles)
 # print(list(titles.stripped_strings))
