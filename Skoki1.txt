@@ -1,0 +1,1761 @@
+[<div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">1</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">51</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">7147</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                ZAJC Timi                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">2000</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-SLO flag"></span>
+</span>
+<span class="country__name-short">SLO</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">220.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">207.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">233.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">222.6</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">430.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs"><span class="hidden-md-up">430.1</span></div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">1</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">51</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">7147</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                ZAJC Timi                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">2000</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-SLO flag"></span>
+</span>
+<span class="country__name-short">SLO</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">220.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">207.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">233.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">222.6</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">430.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs"><span class="hidden-md-up">430.1</span></div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">2</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">55</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5142</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                KUBACKI Dawid                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1990</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-POL flag"></span>
+</span>
+<span class="country__name-short">POL</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">221.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">209.1</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">218.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">215.7</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">424.8</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-5.3</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">2</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">55</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5142</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                KUBACKI Dawid                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1990</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-POL flag"></span>
+</span>
+<span class="country__name-short">POL</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">221.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">209.1</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">218.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">215.7</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">424.8</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-5.3</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">3</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">49</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5253</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                EISENBICHLER Markus                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1991</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-GER flag"></span>
+</span>
+<span class="country__name-short">GER</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">224.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">207.1</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">222.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">216.2</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">423.3</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-6.8</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">3</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">49</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5253</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                EISENBICHLER Markus                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1991</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-GER flag"></span>
+</span>
+<span class="country__name-short">GER</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">224.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">207.1</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">222.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">216.2</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">423.3</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-6.8</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">4</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">56</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">4325</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                ZYLA Piotr                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1987</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-POL flag"></span>
+</span>
+<span class="country__name-short">POL</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">236.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">215.7</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">207.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">206.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">421.8</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-8.3</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">4</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">56</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">4325</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                ZYLA Piotr                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1987</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-POL flag"></span>
+</span>
+<span class="country__name-short">POL</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">236.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">215.7</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">207.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">206.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">421.8</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-8.3</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">5</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">57</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">4321</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                STOCH Kamil                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1987</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-POL flag"></span>
+</span>
+<span class="country__name-short">POL</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">233.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">225.9</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">197.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">194.6</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">420.5</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-9.6</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">5</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">57</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">4321</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                STOCH Kamil                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1987</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-POL flag"></span>
+</span>
+<span class="country__name-short">POL</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">233.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">225.9</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">197.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">194.6</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">420.5</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-9.6</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">6</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">58</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5497</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                KRAFT Stefan                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1993</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-AUT flag"></span>
+</span>
+<span class="country__name-short">AUT</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">222.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">210.9</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">202.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">199.0</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">409.9</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-20.2</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">6</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">58</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5497</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                KRAFT Stefan                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1993</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-AUT flag"></span>
+</span>
+<span class="country__name-short">AUT</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">222.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">210.9</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">202.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">199.0</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">409.9</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-20.2</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">7</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">52</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6100</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                FORFANG Johann Andre                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1995</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-NOR flag"></span>
+</span>
+<span class="country__name-short">NOR</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">222.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">210.4</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">198.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">197.8</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">408.2</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-21.9</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">7</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">52</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6100</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                FORFANG Johann Andre                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1995</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-NOR flag"></span>
+</span>
+<span class="country__name-short">NOR</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">222.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">210.4</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">198.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">197.8</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">408.2</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-21.9</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">8</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">46</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6880</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                GRANERUD Halvor Egner                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1996</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-NOR flag"></span>
+</span>
+<span class="country__name-short">NOR</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">220.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">199.4</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">206.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">198.7</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">398.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-32.0</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">8</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">46</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6880</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                GRANERUD Halvor Egner                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1996</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-NOR flag"></span>
+</span>
+<span class="country__name-short">NOR</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">220.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">199.4</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">206.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">198.7</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">398.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-32.0</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">9</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">45</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5945</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                HUBER Daniel                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1993</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-AUT flag"></span>
+</span>
+<span class="country__name-short">AUT</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">221.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">200.9</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">203.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">197.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">398.0</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-32.1</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">9</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">45</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5945</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                HUBER Daniel                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1993</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-AUT flag"></span>
+</span>
+<span class="country__name-short">AUT</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">221.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">200.9</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">203.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">197.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">398.0</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-32.1</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">10</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">20</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6098</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                TANDE Daniel Andre                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1994</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-NOR flag"></span>
+</span>
+<span class="country__name-short">NOR</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">201.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">181.3</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">223.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">212.5</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">393.8</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-36.3</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">10</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">20</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6098</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                TANDE Daniel Andre                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1994</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-NOR flag"></span>
+</span>
+<span class="country__name-short">NOR</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">201.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">181.3</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">223.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">212.5</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">393.8</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-36.3</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">11</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">54</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5262</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                LEYHE Stephan                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1992</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-GER flag"></span>
+</span>
+<span class="country__name-short">GER</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">198.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">181.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">211.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">205.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">386.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-44.0</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">11</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">54</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5262</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                LEYHE Stephan                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1992</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-GER flag"></span>
+</span>
+<span class="country__name-short">GER</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">198.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">181.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">211.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">205.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">386.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-44.0</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">12</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">48</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">4801</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                KOUDELKA Roman                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1989</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-CZE flag"></span>
+</span>
+<span class="country__name-short">CZE</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">214.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">195.9</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">201.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">190.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">386.0</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-44.1</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">12</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">48</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">4801</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                KOUDELKA Roman                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1989</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-CZE flag"></span>
+</span>
+<span class="country__name-short">CZE</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">214.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">195.9</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">201.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">190.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">386.0</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-44.1</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">13</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">44</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6696</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                WELLINGER Andreas                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1995</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-GER flag"></span>
+</span>
+<span class="country__name-short">GER</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">209.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">189.8</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">210.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">196.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">385.9</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-44.2</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">13</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">44</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6696</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                WELLINGER Andreas                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1995</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-GER flag"></span>
+</span>
+<span class="country__name-short">GER</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">209.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">189.8</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">210.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">196.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">385.9</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-44.2</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">14</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">59</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6288</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                KOBAYASHI Ryoyu                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1996</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-JPN flag"></span>
+</span>
+<span class="country__name-short">JPN</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">205.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">191.1</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">210.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">194.4</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">385.5</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-44.6</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">14</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">59</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6288</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                KOBAYASHI Ryoyu                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1996</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-JPN flag"></span>
+</span>
+<span class="country__name-short">JPN</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">205.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">191.1</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">210.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">194.4</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">385.5</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-44.6</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">15</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">23</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6084</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                ASCHENWALD Philipp                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1995</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-AUT flag"></span>
+</span>
+<span class="country__name-short">AUT</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">202.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">185.2</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">209.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">199.4</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">384.6</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-45.5</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">15</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">23</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6084</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                ASCHENWALD Philipp                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1995</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-AUT flag"></span>
+</span>
+<span class="country__name-short">AUT</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">202.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">185.2</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">209.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">199.4</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">384.6</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-45.5</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">16</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">50</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5567</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                GEIGER Karl                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1993</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-GER flag"></span>
+</span>
+<span class="country__name-short">GER</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">209.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">188.7</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">208.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">194.7</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">383.4</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-46.7</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">16</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">50</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5567</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                GEIGER Karl                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1993</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-GER flag"></span>
+</span>
+<span class="country__name-short">GER</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">209.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">188.7</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">208.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">194.7</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">383.4</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-46.7</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">17</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">53</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5589</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                JOHANSSON Robert                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1990</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-NOR flag"></span>
+</span>
+<span class="country__name-short">NOR</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">197.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">179.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">213.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">203.8</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">382.8</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-47.3</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">17</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">53</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5589</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                JOHANSSON Robert                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1990</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-NOR flag"></span>
+</span>
+<span class="country__name-short">NOR</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">197.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">179.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">213.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">203.8</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">382.8</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-47.3</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">18</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">42</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5174</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                STJERNEN Andreas                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1988</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-NOR flag"></span>
+</span>
+<span class="country__name-short">NOR</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">204.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">188.1</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">205.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">194.5</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">382.6</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-47.5</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">18</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">42</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5174</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                STJERNEN Andreas                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1988</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-NOR flag"></span>
+</span>
+<span class="country__name-short">NOR</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">204.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">188.1</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">205.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">194.5</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">382.6</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-47.5</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">19</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">31</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5626</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                SEMENIC Anze                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1993</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-SLO flag"></span>
+</span>
+<span class="country__name-short">SLO</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">199.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">178.9</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">221.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">201.3</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">380.2</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-49.9</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">19</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">31</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5626</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                SEMENIC Anze                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1993</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-SLO flag"></span>
+</span>
+<span class="country__name-short">SLO</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">199.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">178.9</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">221.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">201.3</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">380.2</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-49.9</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">20</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">41</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">7091</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                PREVC Domen                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1999</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-SLO flag"></span>
+</span>
+<span class="country__name-short">SLO</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">194.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">176.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">213.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">200.2</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">376.7</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-53.4</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">20</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">41</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">7091</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                PREVC Domen                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1999</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-SLO flag"></span>
+</span>
+<span class="country__name-short">SLO</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">194.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">176.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">213.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">200.2</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">376.7</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-53.4</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">21</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">37</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5451</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                KOBAYASHI Junshiro                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1991</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-JPN flag"></span>
+</span>
+<span class="country__name-short">JPN</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">205.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">182.1</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">208.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">192.2</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">374.3</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-55.8</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">21</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">37</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5451</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                KOBAYASHI Junshiro                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1991</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-JPN flag"></span>
+</span>
+<span class="country__name-short">JPN</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">205.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">182.1</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">208.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">192.2</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">374.3</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-55.8</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">22</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">36</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5564</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                FREITAG Richard                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1991</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-GER flag"></span>
+</span>
+<span class="country__name-short">GER</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">203.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">182.7</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">205.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">191.5</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">374.2</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-55.9</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">22</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">36</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5564</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                FREITAG Richard                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1991</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-GER flag"></span>
+</span>
+<span class="country__name-short">GER</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">203.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">182.7</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">205.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">191.5</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">374.2</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-55.9</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">23</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">47</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6645</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                KLIMOV Evgeniy                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1994</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-RUS flag"></span>
+</span>
+<span class="country__name-short">RUS</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">203.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">179.7</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">200.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">186.8</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">366.5</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-63.6</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">23</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">47</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6645</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                KLIMOV Evgeniy                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1994</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-RUS flag"></span>
+</span>
+<span class="country__name-short">RUS</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">203.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">179.7</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">200.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">186.8</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">366.5</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-63.6</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">24</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">38</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6437</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                LANISEK Anze                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1996</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-SLO flag"></span>
+</span>
+<span class="country__name-short">SLO</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">200.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">177.7</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">207.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">186.7</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">364.4</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-65.7</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">24</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">38</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6437</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                LANISEK Anze                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1996</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-SLO flag"></span>
+</span>
+<span class="country__name-short">SLO</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">200.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">177.7</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">207.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">186.7</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">364.4</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-65.7</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">25</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">33</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6165</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                WOLNY Jakub                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1995</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-POL flag"></span>
+</span>
+<span class="country__name-short">POL</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">223.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">202.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">180.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">162.0</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">364.0</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-66.1</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">25</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">33</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6165</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                WOLNY Jakub                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1995</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-POL flag"></span>
+</span>
+<span class="country__name-short">POL</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">223.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">202.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">180.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">162.0</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">364.0</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-66.1</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">26</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">32</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5972</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                FANNEMEL Anders                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1991</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-NOR flag"></span>
+</span>
+<span class="country__name-short">NOR</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">205.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">182.8</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">196.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">179.7</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">362.5</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-67.6</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">26</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">32</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5972</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                FANNEMEL Anders                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1991</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-NOR flag"></span>
+</span>
+<span class="country__name-short">NOR</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">205.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">182.8</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">196.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">179.7</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">362.5</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-67.6</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">27</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">43</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6235</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                PEIER Killian                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1995</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-SUI flag"></span>
+</span>
+<span class="country__name-short">SUI</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">198.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">176.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">186.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">167.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">343.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-87.0</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">27</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">43</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6235</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                PEIER Killian                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1995</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-SUI flag"></span>
+</span>
+<span class="country__name-short">SUI</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">198.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">176.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">186.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">167.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">343.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-87.0</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">28</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">3</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6883</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                VANCURA Tomas                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1996</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-CZE flag"></span>
+</span>
+<span class="country__name-short">CZE</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">204.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">180.8</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">179.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">160.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">340.9</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-89.2</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">28</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">3</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6883</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                VANCURA Tomas                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1996</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-CZE flag"></span>
+</span>
+<span class="country__name-short">CZE</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">204.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">180.8</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">179.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">160.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">340.9</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-89.2</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">29</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">25</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">2022</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                KASAI Noriaki                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1972</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-JPN flag"></span>
+</span>
+<span class="country__name-short">JPN</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">194.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">175.7</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">181.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">163.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">338.8</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-91.3</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">29</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">25</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">2022</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                KASAI Noriaki                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1972</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-JPN flag"></span>
+</span>
+<span class="country__name-short">JPN</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">194.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">175.7</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">181.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">163.1</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">338.8</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-91.3</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">30</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">34</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">2067</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                AMMANN Simon                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1981</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-SUI flag"></span>
+</span>
+<span class="country__name-short">SUI</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">207.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">180.9</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">174.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">155.3</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">336.2</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-93.9</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">30</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">34</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">2067</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                AMMANN Simon                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1981</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-SUI flag"></span>
+</span>
+<span class="country__name-short">SUI</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">207.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">180.9</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">174.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">155.3</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">336.2</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-93.9</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">31</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">24</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">7196</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                SCHMID Constantin                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1999</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-GER flag"></span>
+</span>
+<span class="country__name-short">GER</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">194.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">174.4</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">174.4</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-255.7</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">31</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">24</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">7196</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                SCHMID Constantin                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1999</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-GER flag"></span>
+</span>
+<span class="country__name-short">GER</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">194.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">174.4</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">174.4</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-255.7</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">32</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">2</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5519</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                WOHLGENANNT Ulrich                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1994</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-AUT flag"></span>
+</span>
+<span class="country__name-short">AUT</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">197.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">170.4</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">170.4</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-259.7</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">32</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">2</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5519</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                WOHLGENANNT Ulrich                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1994</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-AUT flag"></span>
+</span>
+<span class="country__name-short">AUT</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">197.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">170.4</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">170.4</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-259.7</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">33</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">22</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5518</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                AIGNER Clemens                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1993</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-AUT flag"></span>
+</span>
+<span class="country__name-short">AUT</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">188.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">167.3</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">167.3</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-262.8</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">33</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">22</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5518</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                AIGNER Clemens                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1993</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-AUT flag"></span>
+</span>
+<span class="country__name-short">AUT</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">188.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">167.3</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">167.3</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-262.8</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">34</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">40</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6151</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                SATO Yukiya                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1995</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-JPN flag"></span>
+</span>
+<span class="country__name-short">JPN</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">189.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">166.7</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">166.7</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-263.4</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">34</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">40</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6151</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                SATO Yukiya                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1995</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-JPN flag"></span>
+</span>
+<span class="country__name-short">JPN</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">189.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">166.7</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">166.7</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-263.4</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">35</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">17</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6483</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                JELAR Ziga                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1997</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-SLO flag"></span>
+</span>
+<span class="country__name-short">SLO</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">191.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">166.2</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">166.2</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-263.9</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">35</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">17</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6483</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                JELAR Ziga                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1997</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-SLO flag"></span>
+</span>
+<span class="country__name-short">SLO</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">191.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">166.2</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">166.2</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-263.9</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">36</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">16</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5063</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                KOZISEK Cestmir                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1991</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-CZE flag"></span>
+</span>
+<span class="country__name-short">CZE</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">191.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">165.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">165.0</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-265.1</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">36</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">16</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">5063</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                KOZISEK Cestmir                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1991</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-CZE flag"></span>
+</span>
+<span class="country__name-short">CZE</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">191.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">165.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">165.0</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-265.1</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">37</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">21</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6671</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                BICKNER Kevin                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1996</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-USA flag"></span>
+</span>
+<span class="country__name-short">USA</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">184.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">162.3</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">162.3</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-267.8</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">37</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">21</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6671</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                BICKNER Kevin                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1996</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-USA flag"></span>
+</span>
+<span class="country__name-short">USA</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">184.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">162.3</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">162.3</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-267.8</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">38</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">28</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6392</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                NAKAMURA Naoki                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1996</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-JPN flag"></span>
+</span>
+<span class="country__name-short">JPN</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">182.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">159.9</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">159.9</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-270.2</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">38</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">28</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6392</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                NAKAMURA Naoki                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1996</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-JPN flag"></span>
+</span>
+<span class="country__name-short">JPN</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">182.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">159.9</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">159.9</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-270.2</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">39</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">4</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">7354</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                NOUSIAINEN Eetu                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1997</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-FIN flag"></span>
+</span>
+<span class="country__name-short">FIN</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">181.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">149.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">149.5</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-280.6</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">39</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">4</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">7354</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                NOUSIAINEN Eetu                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1997</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-FIN flag"></span>
+</span>
+<span class="country__name-short">FIN</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">181.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">149.5</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">149.5</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-280.6</div>
+</div>, <div class="g-row container">
+<div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">40</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">39</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6996</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                AALTO Antti                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1995</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-FIN flag"></span>
+</span>
+<span class="country__name-short">FIN</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">179.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">146.4</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">146.4</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-283.7</div>
+</div>
+</div>, <div class="g-row justify-sb">
+<div class="g-lg-1 g-md-1 g-sm-1 g-xs-2 justify-right pr-1 gray bold">40</div>
+<div class="g-lg-1 g-md-1 g-sm-1 justify-right hidden-xs pr-1 gray">39</div>
+<div class="g-lg-2 g-md-2 g-sm-2 hidden-xs justify-right gray pr-1">6996</div>
+<div class="g-lg-6 g-md-6 g-sm-5 g-xs-11 justify-left bold">
+                                AALTO Antti                            </div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">1995</div>
+<div class="g-lg-1 g-md-1 g-sm-2 g-xs-3 justify-left">
+<div class="country country_flag">
+<span class="country__flag">
+<span class="flag-FIN flag"></span>
+</span>
+<span class="country__name-short">FIN</span>
+</div>
+</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">179.0</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs">146.4</div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-2 justify-right bold hidden-xs"></div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right blue bold ">146.4</div>
+<div class="g-lg-2 g-md-2 g-sm-3 g-xs-5 justify-right bold hidden-sm hidden-xs">-283.7</div>
+</div>]

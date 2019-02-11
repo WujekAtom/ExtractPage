@@ -1,19 +1,22 @@
 from bs4 import BeautifulSoup as BS
 from urllib.request import urlopen
-name = input("Please provide URL: ")
-# html = urlopen("https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=5254")
-html = urlopen(name)
+# name = input("Please provide URL: ")
+html = urlopen("https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=5254")
+# html = urlopen(name)
 page = BS(html, 'html.parser')
-titles = page.find('div', {'id': 'events-info-results'}).find('div', {'class': 'g-row'})
+#titles = page.find('div', {'id': 'events-info-results'}).find('div', {'class': 'g-row'})
+titles = page.find('div', {'id': 'events-info-results'})
 # print(titles)
-# print(list(titles.stripped_strings))
-with open("Skoki.txt", "w") as f:
-    f.write(str(list(titles.stripped_strings)))
-#     for td in titles.div:
-        # pd = td.stripped_strings
-        # f.write(pd)
-        # f.write(str(pd))
+scores = titles.findAll('div', {'class': 'justify-sb'})
+# print(scores)
+# print(list(scores.stripped_strings))
+# with open("Wyniki.txt", 'w') as f:
+with open("Wyniki.txt", 'w') as f:
+	for score in scores:
+ 		# print(score.text)
+ 		f.write(str(score.text))	
+ 	# To działa bez stripped_strings
+	# time = titles.findAll('div', {'class': 'g-row'})
+	# # print(time)
+	# print(list(time.stripped_strings))
 
-
-#  <div class="resultview">
-#resultlist
